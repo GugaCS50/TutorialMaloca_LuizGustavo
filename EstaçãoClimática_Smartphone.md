@@ -52,7 +52,7 @@ Este projeto foi desenvolvido para auxiliar pacientes sensíveis a mudanças cli
 
 ## Montagem do Circuito
  
-![Texto Alternativo](![circuito-completo-2-1](https://github.com/user-attachments/assets/63e6bec3-1a06-44fa-b5ac-d8c444b8681c))
+![Texto Alternativo](!circuito-completo-2-1.png)
 
 
 ## Programação
