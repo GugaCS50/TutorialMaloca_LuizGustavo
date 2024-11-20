@@ -26,15 +26,15 @@ Este projeto foi desenvolvido para auxiliar pacientes sensíveis a mudanças cli
 
 ### Hardware
 
-1 – Sensor DHT22
-1 – Módulo Bluetooth HC-05
-1 – Arduino Uno
-1 – Protoboard
-1 – Resistor 1K Ohm
-1 – Resistor 2K Ohm
-1 – Resistor 10K Ohm
-1 – Potenciômetro 10K Ohm
-1 – Display LCD 16×2
+- 1 Sensor DHT22
+- 1 Módulo Bluetooth HC-05
+- 1 Arduino Uno
+- 1 Protoboard
+- 1 Resistor 1K Ohm
+- 1 Resistor 2K Ohm
+- 1 Resistor 10K Ohm
+- 1 Potenciômetro 10K Ohm
+- 1 Display LCD 16×2
 
 ### Software
 
