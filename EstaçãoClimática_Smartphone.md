@@ -52,7 +52,8 @@ Este projeto foi desenvolvido para auxiliar pacientes sensíveis a mudanças cli
 
 ## Montagem do Circuito
  
-![Texto Alternativo](!circuito-completo-2-1.png)
+![circuito-completo-2-1](https://github.com/user-attachments/assets/24f00f22-fb4d-4b48-a387-01fa42a5d33f)
+
 
 
 ## Programação
@@ -160,7 +161,8 @@ void loop() {
 
 Neste projeto utilizaremos o aplicativo **DHT11 sensor data with bluetooth** encontrado na Google play store. Instalado o aplicativo, o usuário deve parear o bluetooth do celular com a estação meteorológica através do aplicativo. Feita a conexão o aplicativo será atualizado com novas informações do Arduino a cada 5 segundos, mostrando um relatório do ambiente.
 
-![alt text](![graficos-app-2-1](https://github.com/user-attachments/assets/2bb14341-ca47-4762-aa3b-0fc0aac6a06a))
+![graficos-app-2-1](https://github.com/user-attachments/assets/dc8bfbac-86fc-4ba1-9491-043a139579d2)
+
 
 ---
 
